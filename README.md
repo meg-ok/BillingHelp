@@ -1,2 +1,2 @@
-# CapitalOne
-Format credit card info
+# BillingHelp
+Format Capital One credit card info
